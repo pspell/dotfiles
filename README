@@ -1,0 +1,10 @@
+Installation:
+
+    git clone git://github.com/pspell/dotfiles.git ~/dotfiles
+    chmod 700 ~/dotfiles
+
+Create Symlinks
+
+    ln -s ~/dotfiles/vim ~/.vim
+    ln -s ~/dotfiles/vimrc ~/.vimrc
+

@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/peter/code/playpen/splitter/splitMTM'
+let g:netrw_dirhist_2='/Users/peter/snx'
+let g:netrw_dirhist_3='/Users/peter/.ssh'
+let g:netrw_dirhist_4='/Users/peter/Documents/Teleport/datadonkey/trunk/SampleData/PeterData/PT'
+let g:netrw_dirhist_5='/Users/peter'
+let g:netrw_dirhist_6='/Users/peter/code/et/hammondegger/szauth/src/main/java/com/tracelink/szauth'
+let g:netrw_dirhist_7='/Users/peter/code/pickshipTest/api-objects-client-kit-6.0-DENALI-SNAPSHOT/java/sample'
+let g:netrw_dirhist_8='/Users/peter/Documents/Teleport/et/hammondegger/szauth'
