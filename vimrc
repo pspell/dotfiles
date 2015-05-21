@@ -9,6 +9,9 @@ syntax on
 filetype plugin indent on
 
 syntax enable
+"
+" " Pretty up XML via @@X
+map @@X !%xmllint --format --recover -^M
 
 " tell vim to keep a backup file
 set backup
